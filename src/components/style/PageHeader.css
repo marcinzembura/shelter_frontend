@@ -1,0 +1,12 @@
+.pageIcon{
+            display:'inline-block';
+            padding:2px;
+            color:'#3c44b1';
+}
+ .pageTitle{
+                 padding-left: 4px;
+                 /* '& .MuiTypography-subtitle2':{
+                     opacity:'0.6'
+                 } */
+             }
+     
